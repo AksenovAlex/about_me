@@ -45,3 +45,7 @@ https://stepik.org/cert/1552148))
 https://stepik.org/cert/1668976))
 + [Web-технологии: начальный уровень](https://stepik.org/course/82108/promo) ([Сертификат](
 https://stepik.org/cert/1725981))
++ [Основы SQL](https://stepik.org/course/51562/promo)-платный курс ([Сертификат](
+https://stepik.org/cert/1925072))
++ [Интерактивный тренажер по SQL](https://stepik.org/course/63054/promo)-платный курс ([Сертификат](
+https://stepik.org/cert/1814006))
