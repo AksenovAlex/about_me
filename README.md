@@ -49,6 +49,10 @@ https://stepik.org/cert/1725981))
 https://stepik.org/cert/1925072))
 + [Интерактивный тренажер по SQL](https://stepik.org/course/63054/promo)-платный курс ([Сертификат](
 https://stepik.org/cert/1814006))
++ [Уроки по Jinja2](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8wfmtElObQrBbZjY6XeA06U)-видео-лекционный курс
++ [HTML + CSS](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8wRiyGX_9y-fUiBPi1vqaTb)-видео-лекционный курс
++ [Python SQLite](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8x4Inr5oYttMK6J47vxgv6J)-видео-лекционный курс
++ [Django 3 для python (уроки)](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8xO_39zZll2u1lz_Q-Mwn1F)-видео-лекционный курс
 
 ## Опыт работы<br>
 ### Сентябрь 2022 - настоящее время<br>
@@ -64,5 +68,5 @@ https://stepik.org/cert/1814006))
 ## Стек технологий
 + Основной язык: Python
 + Фреймворки: Django/Tkinter/PyQt
-+ Опыт работы с HTML5, CSS3, JS
++ Опыт работы с HTML5, CSS3, JS/jQuery
 + Знание SQL, опыт работы с SQLite, MySQL
