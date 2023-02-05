@@ -59,6 +59,7 @@ https://stepik.org/cert/1814006))
 
 ## Стек технологий
 + Основной язык: Python 3.10<br>
++ Знание ООП<br>
 + Фреймворки: Django/Tkinter/PyQt<br>
 + Опыт работы с HTML5, CSS3, JS/jQuery<br>
 + Знание SQL, опыт работы с SQLite, MySQL<br>
